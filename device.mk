@@ -27,8 +27,7 @@ PRODUCT_COPY_FILES += \
 
 # NFC packages
 PRODUCT_PACKAGES += \
-    nfc_nci.bcm2079x.default \
-    NfcNci
+    nfc_nci.bcm2079x.default
 
 # NFC config
 PRODUCT_COPY_FILES += \
