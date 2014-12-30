@@ -1,0 +1,21 @@
+# Broadcom (NFC) firmware
+vendor/firmware/BCM20791B5_002.006.013.0011.0027_LGE_A1_I2C_NCD_Signed_ORC.ncd
+vendor/firmware/BCM20791B5_002.006.013.0011.0027_LGE_A1_PreI2C_NCD_Signed_ORC.ncd
+
+# Broadcom (Wi-Fi) firmware
+etc/firmware/fw_bcmdhd_apsta.bin
+etc/firmware/fw_bcmdhd.bin
+
+# Camera
+bin/mm-qcamera-daemon
+
+# Radio
+bin/netmgrd
+bin/rild
+lib/libril.so
+
+# Sensors
+bin/sensors.qcom
+
+# Thermal
+bin/thermal-engine
