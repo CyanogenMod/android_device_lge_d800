@@ -22,3 +22,5 @@ TARGET_OTA_ASSERT_DEVICE := d800,g2,galbi
 
 G2_DTS_TARGET := msm8974-g2-att
 
+# Assertions
+TARGET_BOARD_INFO_FILE ?= device/lge/d800/board-info.txt
