@@ -22,3 +22,5 @@ TARGET_OTA_ASSERT_DEVICE := d800,g2,galbi
 
 G2_DTS_TARGET := msm8974-g2-att
 
+# RIL
+BOARD_RIL_CLASS += ../../../device/lge/d800/ril/
